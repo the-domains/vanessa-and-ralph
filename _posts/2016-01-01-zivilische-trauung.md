@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-01T13:47:37.949Z'
-dateModified: '2016-01-01T13:47:16.854Z'
+datePublished: '2016-01-01T13:51:37.805Z'
+dateModified: '2016-01-01T13:50:16.675Z'
 title: Zivilische Trauung
 author: []
+sourcePath: _posts/2016-01-01-zivilische-trauung.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-01-zivilische-trauung.md
-published: true
-url: zivilische-trauung/index.html
-_type: Article
+_type: Blurb
 
 ---
 Zivilische Trauung findet am 1.7.2016 im Standesamt in Hochdorf statt.
