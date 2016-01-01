@@ -1,7 +1,7 @@
 name: 'Vanessa & Ralph'
 favicon: null
-layout_spectrum: 0.32273780601099133
-typography_spectrum: 0.21227299165911973
+layout_spectrum: 0.01279
+typography_spectrum: 0.05757
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.8085973744746298
-  lightness: 0.492777609732002
-  saturation: 0.5629458508919924
-  rhythmicContrast: 0.7857832673471421
+    - '#6f6558'
+    - '#473d32'
+    - '#c9c3b5'
+    - '#eee8da'
+    - '#241005'
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
