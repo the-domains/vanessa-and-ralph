@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Vanessa & Ralph]]></title>
+        <description><![CDATA[Vanessa & Ralph]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Jan 2016 13:36:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wo wir heiraten]]></title>
+            <description><![CDATA[<article><h1>Wo wir heiraten</h1><p>Wir geben uns am 9.7.2016 in der Kirche in Hochdorf das Ja-Wort.</p></article>]]></description>
+            <link>undefinedwo-wir-heiraten/index.html</link>
+            <guid isPermaLink="false">ca439ad3-2e5c-4785-80bd-c41c7194a9fe</guid>
+            <pubDate>Fri, 01 Jan 2016 13:36:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
